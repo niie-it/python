@@ -1,0 +1,21 @@
+Bài 1: # Nhập vào họ, tên đệm và tên của một người
+		# In ra họ tên đầy đủ của người đó
+
+Bài 2: Tính điểm trung bình
+# Nhập vào điểm hệ số 1, hệ số 2 , hệ số 3 của một học sinh
+# Yêu cầu : In ra điểm trung bình của học sinh đó
+
+Bài 3: Chương trình tính số tờ tiền trả lại của máy ATM
+    - Đầu vào : Số tiền máy ATM cần trả lại (bội số của 5k)
+    - Đầu ra: Số tờ của từng loại tiền 50k, 20k, 5k 
+    sao cho tổng số tờ trả lại ít nhất
+
+Bài 4: Chương trình tính chỉ số BMI và kiểm tra thân hình
+    - Đầu vào : 
+    + Chiều cao (mét)
+    + Cân nặng (kg)
+    - Đầu ra : 
+        + Chỉ số BMI = Cân nặng chia bình phương chiều cao
+        + Tình trạng thân hình : Gầy/Béo/Bình thường 
+
+
