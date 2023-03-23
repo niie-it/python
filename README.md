@@ -3,8 +3,8 @@ Tài liệu lập trình Python
 
 
 ## References
-
-* https://libguides.ntu.edu.sg/python
+* http://swcarpentry.github.io/sql-novice-survey/ (SQLite lession)
+* https://libguides.ntu.edu.sg/python (Data Visualization course)
 * https://pynative.com/python-exercises-with-solutions/
 * https://cs111.wellesley.edu/
 * https://cs231n.github.io/python-numpy-tutorial/

@@ -1,0 +1,11 @@
+Practical work 1: student mark management with functions are described below:
+• Input functions:
+	• Input number of students in a class
+	• Input student information: id, name, DoB
+	• Input number of courses
+	• Input course information: id, name
+	• Select a course, input marks for student in this course
+• Listing functions:
+	• List courses
+	• List students
+	• Show student marks for a given course

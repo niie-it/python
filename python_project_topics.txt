@@ -1,0 +1,94 @@
+## Generic
+
+1. Human Resources Information Management System
+2. Project Information Management System
+3. Human Relationship Information Management System (tinder, zalo, facebook) 
+
+## Food/Beverage
+
+4. Restaurant Information Management System (e.g. iSushi)
+5. Airline Booking Information Management System (e.g. Air France)
+6. Taxi Information Management System (e.g. Mai Linh)
+7. Train Information Management System (e.g. VN Rail)
+8. Food market Information Management System
+9. Fast Food Information Management System
+
+## Health, Accommodation Services
+
+10. Hospital Information Management System (e.g. Cho Ray)
+11. Hotel Information Management System (e.g. Intercontinental)
+12. Human Health Information Management System
+13. Personal Fitness Information Management System
+
+## Public Service
+
+Resource or activity that could be bought or rent by people
+
+14. Public Governmental Service Information Management System (e.g. birth/death declaration, marriage. . . )
+15. Water Information Management System (e.g. Cho Lon Water)
+16. Electricity Information Management System (e.g. EVN)
+17. Newspaper Information Management System (e.g. VNexpress)
+18. Library Information Management System (e.g. national library)
+19. Internet Service Information Management System (e.g. VNPT)
+20. Bicycle Rental Management System
+21. Studio Information Management System
+22. Workspace Information Management System
+23. Coffee house Information Management System
+24. Gym Information Management System
+25. Parking Car Information Management System
+26. Zoo Information Management System
+
+## Stores
+
+27. Clothes Store Information Management System (e.g. Ivy Moda)
+28. Book Store Information Management System (e.g. Phuong Nam bookstore)
+29. Computer Store Information Management System (e.g. Phong Vu)
+30. Mobile Phone Store Information Management System (e.g. FPTShop)
+31. Furniture Store Information Management System (e.g. IKEA)
+32. Banking Information Management System
+33. Helmet Store Information Management System
+34. Tool Store Information Management System
+35. Car Store Information Management System
+36. Motorbike Store Information Management System
+37. Electronic Components Store Information Management System
+
+## Academy
+
+38. Citation Management System
+39. Document Information Management System
+40. Syllabus Information Management System
+41. Transcript Information Management System
+42. Room Information Management System
+
+## Electronic Device
+
+43. Computer Hardware Information Management System
+44. Computer Temperature Information Management System
+45. Video Card Information Management System
+46. 3D Printer Machine Information Management System
+
+## Entertainment
+
+47. Cosmic Information Management System
+48. Music Store Management System
+49. Movie Store Management System
+50. Game Store Management System
+51. Resource Management System (AoE, StarCraft, Dota)
+
+## Space / Flight
+
+52. Starship Equipment Management System
+53. Flight route Management System
+54. Flight Member Management System
+
+## Military
+
+55. Comrade Information Management System
+56. Battle field Information Management System
+57. Military Equipment Management System
+
+## Financial
+
+58. Crypto Trading Information Management System
+59. Stock Trading Information Management System
+60. ForexExchange Trading Information Management System
