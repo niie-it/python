@@ -4,6 +4,7 @@ Tài liệu lập trình Python
 
 ## References
 * http://swcarpentry.github.io/sql-novice-survey/ (SQLite lession)
+* https://swcarpentry.github.io/python-novice-inflammation/ (Programming with Python)
 * https://libguides.ntu.edu.sg/python (Data Visualization course)
 * https://pynative.com/python-exercises-with-solutions/
 * https://cs111.wellesley.edu/
