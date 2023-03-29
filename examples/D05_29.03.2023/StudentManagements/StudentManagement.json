@@ -1,0 +1,21 @@
+[
+	{
+		"id": 2100006678,
+		"fullName": "Nguyễn Văn Tèo",
+		"className": "21BITV04",
+		"courseMarks": [
+			{
+				"subject": "Advanced Programming",
+				"mark": 9.9,
+                "credit": 3
+			},
+            {
+				"subject": "Database",
+				"mark": 7.9,
+                "credit": 3
+			}
+		],
+        "totalCredit": 6,
+        "average": 8.9
+	}
+]
