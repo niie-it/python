@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+*.pptx
+
 # Distribution / packaging
 .Python
 build/
@@ -67,6 +69,10 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+
+# Docx
+*.docx
+*.doc
 
 # Sphinx documentation
 docs/_build/
